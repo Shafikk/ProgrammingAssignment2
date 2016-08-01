@@ -41,10 +41,6 @@ makeCacheMatrix <- function(x = matrix())
     get.inverse = get.inverse)
   
 }
-  
-    
-}
-
 
 ## cachesolve is a function that takes a chacheable matrix
 ## checks if the inverse is already cached, returns it if so
